@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on <br>- Building backend systems and CLI tools with secure architecture<br>- Expanding my experience with Docker, CI/CD pipelines, and automation<br>- Improving my C++ and systems programming foundations<br>- Designing networked applications with concurrency and real-time communication<br><br>🤝 I’m looking for help with<br>- Practices for designing scalable backend APIs<br>- Improving cloud deployment strategies (Docker, CI/CD, server setups)<br>- Understanding more advanced systems-level concepts in C++<br><br>🌱 I’m currently learning<br>- C++ for systems programming<br>- Docker + Jenkins for CI/CD workflows<br>- PostgreSQL and database optimisation<br>- Secure authentication and API design<br><br>⚡ Fun fact <br>- I tend to build random CLI tools just because they seem fun<br>- My projects usually start as “small ideas” and then suddenly need documentation<br>- I enjoy breaking things so I can learn how to fix them properly<br>- I judge languages by how often they make me question my life choices (looking at you, C++)
 
+*Note (I'm accidently using another account to do commits instead of my main (Whoops))
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garydo050915@gmail.com) 
@@ -10,3 +11,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=garyduydo&icon=0&color=0)](https://visitcount.itsvg.in)
+
